@@ -1,6 +1,6 @@
 # decode.py
 this program allows you to enter the numbers in another text file and decode or create an encrypted message
-#for better reading, view README in 
+#for better reading, view README in CODE MODE
 the program starts by defining a fucntion def decode that takes in two attributes, numbers and message file which is the attached letters.txt file. 
 This fucntion has an empty dictionary that holds the numbers 
 then with open, we open the letters file and itertae through each line and seperate it into number and word by using strip and split
